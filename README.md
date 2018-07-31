@@ -18,7 +18,7 @@
 
 ### Screenshots
 -----
-![Coming Soon](#) 
+![Nintendo eShop Discount Scraper v1.0](https://i.imgur.com/NWbBYxK.png) 
 
 ### BUG Report
 -----
